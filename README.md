@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- I have pursued BTech in **CSE**
+- I have pursued BTech in **Computer Science & Engineering**
 
 - I have total **1.6 Years of Experience**
 
