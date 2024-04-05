@@ -6,8 +6,6 @@
 
 - I have total **1.6 Years of Experience**
 
-- Currently looking for a **job**
-
 - 📫 How to reach me **amrita.priya2014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
